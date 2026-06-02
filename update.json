@@ -5,9 +5,9 @@
     {
       "type": "muscle-master",
       "version": "v0.0.0-dev-39cf240",
-      "url": "https://your-server/firmware/muscle-master-v0.0.0-dev-39cf240.bin",
-      "size": 1979456,
-      "sha256": "07cb30e0bf1b1ee6044e8c7d108344cf670d2aa9baad30237c72d3c46556c6e1"
+      "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
+      "size": 1979488,
+      "sha256": "aa425ba235e5c7ab4976d4a65a1fdddd9e3bb7ec0c53086c67474d1ead3f8a05"
     }
   ]
 }
