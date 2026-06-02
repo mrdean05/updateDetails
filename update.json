@@ -8,13 +8,6 @@
       "url": "https://your-server/firmware/muscle-master-v0.0.0-dev-39cf240.bin",
       "size": 1979456,
       "sha256": "07cb30e0bf1b1ee6044e8c7d108344cf670d2aa9baad30237c72d3c46556c6e1"
-    },
-    {
-      "type": "muscle-slave",
-      "version": "v0.1.0-dev-5188c3e",
-      "url": "https://your-server/firmware/muscle-slave-v0.1.0-dev-5188c3e.bin",
-      "size": 1166096,
-      "sha256": "5954083f252d1a692ad40483cd638323188e00bcab40015aa080672b6e8e426d"
     }
   ]
 }
