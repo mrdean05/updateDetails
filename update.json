@@ -3,11 +3,11 @@
   "update_id": "batch-unknown-20260602",
   "details": [
     {
-      "type": "muscle-slave",
-      "version": "v0.1.1-dev-5188c3e",
-      "url": "https://raw.githubusercontent.com/mrdean05/slave/main/muscle-slave.bin",
-      "size": 1166128,
-      "sha256": "313945b00d5683e10452532a2f0064c1293dd0a0cb2ef6d2630e3ae75d62174e"
+      "type": "muscle-master",
+      "version": "v0.0.0-dev-2f86494",
+      "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
+      "size": 1989248,
+      "sha256": "0a5bf8ca88d34d8820539be4770e4fc8f431394f102ea1123164958c92c68f48"
     }
   ]
 }
