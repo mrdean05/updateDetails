@@ -4,10 +4,10 @@
   "details": [
     {
       "type": "muscle-master",
-      "version": "v0.0.0-dev-6986f4d",
+      "version": "v0.0.0-dev-3a92c92",
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
       "size": 1990560,
-      "sha256": "6bc23252dc76aca191df1c04a8d5bc38be917cda01c32dc04e1f307fcfb11704"
+      "sha256": "e7c8bb4a915cbb75517358b168fe626eec565f636db112b9804e3ae5c5e56f63"
     }
   ]
 }
