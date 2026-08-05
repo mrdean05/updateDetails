@@ -6,8 +6,8 @@
       "type": "muscle-master",
       "version": "v0.0.0-dev-8ed3347",
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
-      "size": 2023392,
-      "sha256": "25732e6168468d17caa1297bb2572bedb7fc613a8a9be2503dbd81198115eb5f"
+      "size": 2023760,
+      "sha256": "71c1d51ac3972a3ea160e40d9d9924a1d39f27b26d5a6d66a44eb05e7107d119"
     },
     {
       "type": "muscle-slave",
