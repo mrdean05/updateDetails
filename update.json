@@ -4,17 +4,17 @@
   "details": [
     {
       "type": "muscle-master",
-      "version": "v0.0.0-dev-3b127ef",
+      "version": "v0.0.0-dev-2dafd57",
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
-      "size": 2024032,
-      "sha256": "0bbdbbe9026ff20766827b7675730c7f1fb3e5c7152f662f358d2e3c5fe48cba"
+      "size": 2023888,
+      "sha256": "457f85179955705963057f06aa5e8efc58a89104715908da1123b635c7a29365"
     },
     {
       "type": "muscle-slave",
-      "version": "v0.1.1-dev-bb96b8d",
+      "version": "v0.1.1-dev-45c500d",
       "url": "https://raw.githubusercontent.com/mrdean05/slave/main/muscle-slave.bin",
-      "size": 1203712,
-      "sha256": "18b80a436d91adc21cb2c96cac7fb90f6b057ba2c6e05e665f2e25318046f5b9"
+      "size": 1203696,
+      "sha256": "061c5388e600b8ce885eefe32b976b49bd46aebfc7c02da4b73612c099e6fedd"
     }
   ]
 }
