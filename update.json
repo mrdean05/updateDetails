@@ -1,13 +1,13 @@
 {
   "event": "software_update",
-  "update_id": "batch-unknown-20260814",
+  "update_id": "batch-unknown-20260815",
   "details": [
     {
       "type": "muscle-master",
       "version": "v0.0.0-dev-f434c14",
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
-      "size": 2006976,
-      "sha256": "6c2e34c094b5a587bc6f63e9f7dd801c84ce8cfff8983d440e07c2f41b0145b0"
+      "size": 2006656,
+      "sha256": "4f114d75386641f8c870096e49887c2f38ef62c77e7114af092b397ac323392a"
     },
     {
       "type": "muscle-slave",
