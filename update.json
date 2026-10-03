@@ -1,20 +1,21 @@
 {
   "event": "software_update",
-  "update_id": "batch-unknown-20260906",
+  "version": "1.0.0",
+  "update_id": "batch-5885641-20261003",
   "details": [
     {
       "type": "muscle-master",
-      "version": "v0.0.0-dev-47d0868",
+      "version": "0.1.0",
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
-      "size": 2007504,
-      "sha256": "a2018ed7fddefe8f6338371d0a54323d841b3c96d827f45dcad31ac1c78f8abe"
+      "size": 2007760,
+      "sha256": "31e17cd345e567b01d19aecc61aacfe0ba344f8b34f6c7a64806ce6c7ed8316c"
     },
     {
       "type": "muscle-slave",
-      "version": "v0.1.1-dev-fff5143",
+      "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/mrdean05/slave/main/muscle-slave.bin",
       "size": 1204720,
-      "sha256": "c092d0e8aebf7c10a50636aa1f1b4ddeb71de1d20cc440c4a6c1ca7c594ed809"
+      "sha256": "c30118a1f3e9130aac835b6355f45489622bc77e24de1d143b46c10556015f03"
     }
   ]
 }
