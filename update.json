@@ -9,13 +9,6 @@
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
       "size": 2009920,
       "sha256": "5468a6a8d8fd7507d4a1e0680f3b2ee0810244f6ed61c0377d19ab3a2689b831"
-    },
-    {
-      "type": "muscle-slave",
-      "version": "0.3.0",
-      "url": "https://raw.githubusercontent.com/mrdean05/slave/main/muscle-slave.bin",
-      "size": 1206784,
-      "sha256": "605e7197ff6180025458aa619ac7e2df571f81be3cdc4554fe59f0d3e2d0b830"
     }
   ]
 }
