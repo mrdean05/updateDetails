@@ -1,11 +1,11 @@
 {
   "event": "software_update",
-  "version": "1.1.0",
+  "version": "1.5.0",
   "update_id": "batch-8f57721-20261012",
   "details": [
     {
       "type": "muscle-master",
-      "version": "0.2.0",
+      "version": "0.5.0",
       "url": "https://raw.githubusercontent.com/mrdean05/master/main/muscle-master.bin",
       "size": 2009920,
       "sha256": "5468a6a8d8fd7507d4a1e0680f3b2ee0810244f6ed61c0377d19ab3a2689b831"
